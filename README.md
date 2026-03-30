@@ -1,1 +1,2 @@
-# merge_and_conflict
+# merge\_and\_conflict   Adding Developer A story
+
